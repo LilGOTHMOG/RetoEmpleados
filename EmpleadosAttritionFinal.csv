@@ -1,0 +1,401 @@
+Age,Education,EducationField,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MonthlyIncome,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsInCurrentRole,YearsSinceLastPromotion,Attrition,YearsAtCompany,DistanceFromHome,MonthlyIncome_Norm
+50,2,Medical,4,Male,3,4,Research Director,4,17399,9,No,22,4,3,32,1,2,4,1,No,5,1,0.8711260201271717
+36,2,Medical,2,Male,3,2,Manufacturing Director,2,4941,6,No,20,4,4,7,0,3,2,0,No,3,6,0.24738396835728232
+21,1,Marketing,2,Male,3,1,Sales Representative,2,2679,1,No,13,3,2,1,3,3,0,1,Yes,1,7,0.13413107695388776
+52,4,Life Sciences,2,Male,3,3,Healthcare Representative,2,10445,7,No,19,3,4,18,4,3,6,4,No,8,7,0.5229559905872928
+33,1,Medical,2,Male,3,3,Manager,3,13610,7,Yes,12,3,4,15,2,4,6,7,Yes,7,15,0.6814199168877986
+47,3,Life Sciences,3,Female,2,3,Manufacturing Director,2,10333,8,Yes,12,3,3,28,4,3,11,14,No,22,4,0.5173484203674961
+22,2,Life Sciences,4,Male,2,2,Manufacturing Director,4,4775,6,No,22,4,1,4,2,1,2,2,No,2,1,0.23907274821008362
+33,3,Life Sciences,3,Female,3,2,Sales Executive,4,5368,1,Yes,25,4,3,7,2,3,5,1,No,6,16,0.26876282982025734
+40,4,Marketing,3,Male,2,3,Sales Executive,4,10855,7,No,11,3,1,15,2,2,11,2,No,12,4,0.5434837029990487
+27,1,Life Sciences,4,Male,1,2,Sales Executive,4,5071,3,No,20,4,2,8,3,3,2,0,No,6,2,0.2538927552195464
+40,4,Life Sciences,1,Male,3,1,Laboratory Technician,4,2406,8,No,19,3,3,8,3,2,0,0,No,1,1,0.12046262454313322
+55,1,Life Sciences,4,Male,3,3,Manufacturing Director,2,10976,3,No,18,3,2,23,4,3,2,1,No,3,2,0.5495418815400791
+33,3,Medical,1,Male,2,1,Research Scientist,2,2313,4,Yes,20,4,2,5,0,3,2,2,Yes,2,25,0.11580633855705202
+37,4,Life Sciences,1,Male,2,3,Sales Executive,3,10609,5,No,11,3,3,17,2,1,1,11,Yes,14,1,0.5311670755519952
+46,2,Marketing,4,Female,2,5,Manager,2,18789,2,No,14,3,3,26,2,3,4,0,No,11,4,0.9407199719621488
+38,3,Life Sciences,3,Male,3,2,Sales Executive,2,9924,0,No,11,3,4,10,3,3,8,7,No,9,14,0.49687077554698844
+30,3,Technical Degree,1,Female,2,2,Laboratory Technician,4,4627,0,No,12,3,1,10,6,3,2,6,No,9,6,0.23166274470535222
+36,4,Marketing,4,Male,1,2,Sales Executive,4,5406,1,No,24,4,1,15,4,2,12,11,No,15,15,0.2706653982876884
+40,4,Medical,2,Male,3,5,Manager,2,19833,1,No,14,3,2,21,3,2,8,12,No,21,7,0.9929905372252541
+53,2,Medical,3,Male,3,4,Manager,3,14852,6,No,13,3,3,22,3,4,13,15,No,17,2,0.7436038652180443
+32,3,Medical,4,Male,3,2,Research Scientist,2,5470,0,No,13,3,3,10,4,2,5,1,No,9,2,0.2738697241275722
+55,4,Life Sciences,4,Male,3,2,Healthcare Representative,3,4035,0,Yes,16,3,2,4,2,3,2,1,No,3,4,0.20202273068642668
+30,3,Life Sciences,3,Female,1,2,Manufacturing Director,4,6091,2,No,20,4,3,11,2,3,4,0,No,5,2,0.30496169829269515
+23,3,Life Sciences,3,Male,4,1,Laboratory Technician,1,1601,1,Yes,21,4,3,1,2,3,0,0,Yes,0,6,0.08015821358834427
+51,4,Medical,2,Male,2,2,Manufacturing Director,3,6132,2,No,17,3,3,10,2,3,0,0,No,1,7,0.30701446953387074
+42,2,Life Sciences,4,Female,2,2,Manufacturing Director,4,6062,9,Yes,13,3,4,8,4,3,3,0,No,4,1,0.3035097381464978
+20,1,Medical,4,Male,3,1,Research Scientist,3,1009,1,Yes,11,3,4,1,5,3,0,1,Yes,1,10,0.05051819956941871
+29,1,Life Sciences,2,Female,1,1,Research Scientist,4,2168,0,Yes,18,3,1,6,2,2,4,1,No,5,15,0.10854653782606519
+43,3,Life Sciences,1,Male,2,4,Research Director,2,14336,1,No,11,3,3,25,3,3,10,3,No,25,12,0.7177689881339808
+40,2,Medical,3,Female,2,2,Research Scientist,4,4422,3,Yes,13,3,4,16,3,1,1,0,No,1,26,0.22139888849947428
+29,1,Medical,2,Female,3,1,Laboratory Technician,4,3131,1,No,13,3,1,10,5,3,8,0,No,10,6,0.15676162819806738
+44,2,Medical,3,Male,3,1,Research Scientist,2,2342,1,Yes,12,3,3,6,2,2,3,2,Yes,5,1,0.11725829870324939
+47,4,Medical,1,Female,3,4,Research Director,3,17169,3,No,19,3,2,26,2,4,17,5,No,20,2,0.8596104741400892
+32,4,Life Sciences,1,Male,3,2,Laboratory Technician,4,5309,1,No,15,3,4,10,2,3,8,4,No,10,24,0.2658088419366144
+38,1,Life Sciences,3,Female,3,1,Research Scientist,1,2619,3,No,17,3,4,8,3,2,0,0,No,0,1,0.13112702147899666
+58,4,Life Sciences,4,Male,1,2,Healthcare Representative,3,5660,2,Yes,13,3,4,12,2,3,3,1,No,5,1,0.28338256646472737
+45,3,Technical Degree,2,Male,3,3,Manufacturing Director,4,9380,4,Yes,18,3,4,10,4,4,1,1,No,3,29,0.46963400590797577
+56,3,Medical,3,Male,3,4,Healthcare Representative,4,11103,7,No,11,3,3,30,1,2,7,1,No,10,9,0.5559004656285986
+37,4,Medical,3,Male,1,2,Sales Executive,4,9525,1,No,14,3,3,6,2,2,3,1,No,6,1,0.4768938066389626
+39,5,Life Sciences,1,Male,4,3,Sales Executive,3,7880,0,No,18,3,4,9,3,3,7,0,No,8,2,0.3945326190356982
+54,4,Life Sciences,3,Female,2,3,Sales Executive,3,10686,6,No,11,3,2,13,4,3,4,7,No,9,2,0.5350222800781055
+32,4,Medical,4,Female,3,1,Laboratory Technician,3,4025,9,No,12,3,2,10,2,3,7,7,No,8,29,0.20152205477394483
+48,1,Medical,1,Female,3,3,Manager,3,12504,3,No,21,4,2,15,3,1,0,0,No,0,29,0.6260451609673059
+33,4,Other,3,Female,4,2,Healthcare Representative,2,5488,1,Yes,13,3,1,6,2,3,5,1,No,6,1,0.27477094077003955
+31,4,Life Sciences,2,Male,1,2,Sales Executive,3,6172,4,Yes,18,3,2,12,3,2,7,7,Yes,7,6,0.3090171731837981
+46,2,Marketing,2,Female,3,3,Sales Executive,1,10453,1,No,25,4,3,24,2,3,13,15,No,24,1,0.5233565313172783
+38,4,Life Sciences,4,Male,3,2,Healthcare Representative,4,5745,9,No,14,3,2,10,2,3,2,1,No,2,23,0.2876383117208231
+38,4,Life Sciences,4,Male,3,2,Sales Executive,2,4440,0,No,15,3,1,16,3,3,13,5,No,15,1,0.22230010514194162
+43,3,Medical,4,Male,3,2,Sales Executive,4,7847,1,Yes,17,3,1,10,3,3,9,8,No,10,2,0.3928803885245081
+37,3,Medical,2,Male,3,1,Research Scientist,4,2326,1,Yes,12,3,3,4,3,2,2,1,No,4,9,0.11645721724327843
+30,3,Life Sciences,3,Male,2,2,Healthcare Representative,4,4152,1,No,19,3,1,11,3,3,10,10,No,11,2,0.20788063886246433
+39,4,Medical,3,Female,2,4,Manager,2,17123,6,Yes,13,3,4,21,4,3,9,15,No,19,13,0.8573073649426726
+43,3,Medical,1,Female,2,5,Manager,3,19392,7,No,13,3,4,21,2,3,12,6,No,16,6,0.9709107294848045
+27,3,Medical,4,Female,2,2,Healthcare Representative,1,6811,8,No,19,3,1,9,2,1,6,0,No,7,7,0.3410103639913884
+42,2,Medical,3,Female,2,2,Sales Executive,3,6244,7,No,17,3,1,10,6,3,4,0,No,5,14,0.3126220397536674
+31,3,Medical,1,Female,4,1,Laboratory Technician,3,3978,8,No,12,3,2,4,0,2,2,2,No,2,4,0.19916887798528013
+39,3,Medical,4,Male,3,1,Laboratory Technician,1,2404,7,Yes,21,4,4,8,2,1,2,2,Yes,2,6,0.12036248936063686
+29,3,Life Sciences,4,Female,2,4,Research Director,4,16124,3,No,14,3,2,9,2,2,7,1,No,7,1,0.8072898412857358
+49,4,Life Sciences,3,Female,3,5,Research Director,1,18665,9,Yes,11,3,4,22,4,3,2,1,No,3,10,0.934511590647374
+38,3,Life Sciences,1,Male,2,1,Sales Representative,1,2858,4,No,14,3,1,20,3,2,0,0,No,1,1,0.14309317578731287
+42,5,Life Sciences,1,Female,3,4,Research Director,4,15992,2,No,14,3,2,16,2,3,0,0,No,1,23,0.8006809192409753
+34,4,Medical,4,Male,3,3,Sales Executive,3,8628,1,No,18,3,3,9,2,2,7,1,No,8,13,0.4319831772893406
+36,1,Life Sciences,3,Male,3,2,Healthcare Representative,4,6586,0,Yes,17,3,1,17,2,2,8,4,No,16,14,0.32974515596054677
+27,1,Marketing,3,Male,3,2,Sales Executive,4,4342,0,No,19,3,2,5,3,3,2,1,No,4,8,0.2173934811996195
+40,3,Other,3,Male,1,3,Sales Executive,1,10932,3,No,15,3,3,20,2,3,0,0,No,1,28,0.547338907525159
+34,3,Technical Degree,4,Male,2,3,Sales Executive,3,7083,1,Yes,14,3,4,10,3,3,9,8,No,10,1,0.35462874881089473
+43,3,Life Sciences,3,Female,3,3,Healthcare Representative,1,9985,8,No,16,3,1,10,1,2,0,0,No,1,7,0.4999248986131277
+31,2,Life Sciences,1,Male,3,3,Sales Executive,4,10793,1,No,18,3,1,13,5,3,7,9,No,13,8,0.5403795123416613
+41,3,Life Sciences,4,Male,3,1,Research Scientist,4,2782,3,No,22,4,1,12,3,3,3,1,No,5,1,0.1392880388524508
+31,3,Life Sciences,4,Male,1,2,Research Scientist,1,5003,1,No,21,4,2,10,6,3,8,8,No,10,1,0.2504881590146698
+45,4,Medical,2,Male,3,2,Healthcare Representative,3,5399,4,No,12,3,3,12,3,3,2,0,No,4,1,0.27031492514895106
+33,3,Marketing,2,Male,2,2,Sales Executive,4,4682,3,No,14,3,3,9,6,2,7,0,No,7,10,0.2344164622240024
+36,2,Medical,3,Male,4,2,Laboratory Technician,4,2571,4,No,17,3,3,17,3,3,2,0,No,5,23,0.12872377709908375
+33,3,Medical,2,Male,4,1,Laboratory Technician,2,2028,1,No,18,3,4,14,6,3,11,2,No,14,21,0.10153707505131929
+31,1,Life Sciences,1,Male,3,1,Research Scientist,3,2911,1,No,17,3,4,5,1,2,2,4,No,5,26,0.14574675812346669
+19,1,Technical Degree,3,Female,1,1,Sales Representative,1,2325,0,No,21,4,1,1,5,4,0,0,Yes,0,1,0.11640714965203024
+32,3,Life Sciences,2,Male,4,1,Laboratory Technician,2,2794,1,No,20,4,3,5,3,1,1,0,No,5,7,0.13988884994742903
+36,4,Life Sciences,1,Male,3,2,Manufacturing Director,4,7779,2,No,20,4,1,18,0,3,9,0,No,11,18,0.3894757923196315
+37,2,Other,3,Male,3,2,Human Resources,2,4071,2,No,13,3,3,19,4,2,0,4,No,10,8,0.20382516397136133
+29,2,Life Sciences,2,Female,2,1,Laboratory Technician,1,2319,1,Yes,11,3,4,1,1,3,0,0,Yes,1,1,0.11610674410454112
+29,4,Life Sciences,3,Female,3,1,Research Scientist,4,2514,4,No,22,4,1,11,1,3,5,1,No,7,28,0.1258699243979372
+41,1,Life Sciences,2,Female,1,5,Research Director,3,19973,1,No,22,4,2,21,3,3,16,5,No,21,7,1.0
+30,3,Human Resources,3,Male,3,2,Human Resources,4,6347,0,Yes,19,3,4,12,2,1,9,4,No,11,9,0.3177790016522305
+39,1,Medical,3,Male,3,3,Research Director,3,13464,7,No,21,4,3,9,3,3,3,2,No,4,10,0.6741100485655636
+22,1,Medical,3,Female,3,1,Laboratory Technician,1,2398,1,Yes,17,3,3,1,6,3,0,0,Yes,1,8,0.12006208381314774
+31,4,Medical,3,Male,1,2,Manufacturing Director,3,4345,0,No,12,3,4,6,2,3,4,1,No,5,1,0.21754368397336404
+45,2,Life Sciences,4,Female,3,4,Manager,4,17650,3,No,13,3,2,26,4,4,3,1,No,9,11,0.8836929855304662
+42,2,Life Sciences,1,Female,3,2,Research Scientist,3,4556,2,No,11,3,2,19,3,3,4,0,No,5,29,0.2281079457267311
+31,2,Life Sciences,3,Female,2,3,Manufacturing Director,3,8943,1,No,24,4,1,10,2,3,9,8,No,10,7,0.4477544685325189
+51,3,Medical,4,Male,1,2,Manufacturing Director,2,5482,5,No,18,3,4,13,3,3,1,1,No,4,2,0.27447053522255044
+34,3,Medical,4,Male,2,2,Healthcare Representative,1,5343,0,No,20,4,3,14,3,3,9,4,No,13,1,0.26751114003905274
+33,3,Life Sciences,4,Male,3,4,Manager,3,17444,1,No,11,3,4,10,2,3,8,6,No,10,17,0.87337906173334
+40,2,Marketing,2,Female,3,2,Sales Executive,2,5677,3,No,14,3,3,15,4,3,8,5,No,11,2,0.2842337155159465
+33,5,Marketing,4,Male,4,3,Sales Executive,3,8380,0,Yes,14,3,4,10,3,3,8,0,No,9,10,0.4195664146597907
+34,1,Life Sciences,2,Female,3,2,Sales Executive,3,5714,1,No,20,4,1,6,3,2,5,1,No,6,9,0.2860862163921294
+34,5,Life Sciences,2,Male,3,1,Research Scientist,4,2691,1,No,12,3,4,10,4,2,9,8,No,10,1,0.13473188804886596
+30,2,Life Sciences,2,Female,4,3,Research Director,1,11416,0,Yes,12,3,3,9,4,2,7,1,No,8,8,0.5715716216892806
+45,2,Life Sciences,4,Male,3,2,Laboratory Technician,1,3633,1,Yes,15,3,3,9,2,3,8,0,No,9,23,0.1818955590046563
+37,4,Medical,1,Male,3,3,Sales Executive,2,8834,1,No,13,3,4,9,6,3,5,7,No,9,9,0.44229710108646675
+31,3,Marketing,4,Male,3,2,Sales Executive,4,7547,4,No,12,3,4,13,3,3,7,1,No,7,7,0.3778601111500526
+32,2,Life Sciences,4,Male,3,1,Laboratory Technician,4,3068,0,No,13,3,3,8,2,2,7,3,No,7,2,0.15360736994943172
+30,3,Life Sciences,1,Female,3,1,Research Scientist,3,2132,4,Yes,11,3,2,7,2,3,2,0,Yes,5,22,0.10674410454113052
+33,3,Life Sciences,3,Female,4,2,Sales Executive,1,5376,2,No,19,3,1,10,3,3,3,1,No,5,1,0.2691633705502428
+38,3,Life Sciences,3,Female,3,3,Manufacturing Director,3,7861,4,Yes,14,3,4,10,4,4,0,0,No,1,1,0.39358133480198265
+41,2,Life Sciences,3,Male,3,2,Research Scientist,1,3072,2,No,16,3,1,17,2,2,0,0,No,1,19,0.15380764031442448
+51,4,Life Sciences,1,Male,1,3,Manufacturing Director,4,10650,2,No,15,3,4,18,2,3,2,0,Yes,4,8,0.5332198467931708
+38,3,Life Sciences,1,Male,2,2,Healthcare Representative,1,6288,2,No,15,3,3,13,3,2,3,1,No,4,12,0.31482501376858757
+27,1,Medical,2,Female,2,2,Sales Representative,3,3540,1,No,21,4,4,9,5,3,8,5,No,9,23,0.1772392730185751
+53,4,Life Sciences,4,Female,3,4,Research Director,4,14275,6,No,18,3,3,33,0,3,9,3,No,12,23,0.7147148650678415
+30,1,Life Sciences,4,Male,3,2,Sales Executive,3,5301,8,No,15,3,3,4,2,2,1,2,No,2,16,0.26540830120662895
+30,3,Medical,2,Male,3,1,Sales Representative,4,1081,1,No,13,3,3,1,3,2,0,0,Yes,1,9,0.05412306613928804
+30,3,Life Sciences,4,Male,1,1,Laboratory Technician,3,3833,3,No,21,4,3,7,2,3,2,0,No,2,1,0.1919090772542933
+58,3,Medical,4,Female,3,5,Research Director,1,19701,3,Yes,21,4,3,32,3,3,8,1,No,9,1,0.9863816151804937
+34,4,Marketing,2,Male,4,2,Sales Executive,4,9725,0,No,11,3,4,16,2,2,1,0,No,15,1,0.4869073248885996
+51,2,Life Sciences,3,Female,3,2,Sales Executive,4,4936,4,No,11,3,3,18,2,2,7,0,No,7,14,0.24713363040104142
+39,1,Medical,3,Male,3,4,Manager,1,17068,1,Yes,14,3,4,21,3,3,9,11,No,21,10,0.8545536474240224
+36,4,Medical,2,Male,3,3,Sales Executive,4,9980,1,No,14,3,4,10,3,2,3,9,No,10,10,0.4996745606568868
+32,2,Technical Degree,3,Female,2,2,Sales Executive,2,5228,1,Yes,11,3,4,13,2,3,12,11,No,13,8,0.26175336704551144
+56,3,Medical,1,Female,3,1,Research Scientist,3,2942,2,No,19,3,2,18,4,3,4,0,No,5,9,0.14729885345216043
+57,2,Life Sciences,2,Male,4,2,Research Scientist,3,4900,0,No,24,4,1,13,2,2,9,2,No,12,1,0.24533119711610674
+57,3,Marketing,1,Male,2,4,Manager,4,14118,3,No,12,3,3,32,3,2,0,0,No,1,29,0.7068542532418766
+40,1,Medical,4,Female,2,1,Research Scientist,4,2342,0,Yes,20,4,4,5,2,2,2,2,No,4,2,0.11725829870324939
+23,3,Marketing,4,Male,3,1,Sales Representative,1,1790,1,No,19,3,1,1,3,2,0,1,Yes,1,9,0.08962098833425124
+53,4,Medical,2,Male,4,3,Healthcare Representative,4,7005,3,No,15,3,3,11,2,3,3,1,No,4,24,0.35072347669353626
+38,3,Medical,4,Female,2,1,Laboratory Technician,2,2440,1,No,22,4,2,4,3,3,3,3,No,4,2,0.12216492264557152
+36,3,Human Resources,3,Male,3,1,Human Resources,2,2143,4,No,13,3,2,8,2,3,2,0,No,5,13,0.10729484804486056
+29,1,Medical,2,Female,3,3,Sales Executive,4,7918,1,No,14,3,4,11,5,3,10,4,No,11,1,0.3964351875031292
+38,3,Medical,2,Female,1,3,Research Director,3,13206,3,No,12,3,1,20,3,3,16,1,No,18,10,0.6611926100235318
+47,3,Medical,1,Male,3,3,Healthcare Representative,3,8633,2,No,23,4,2,25,3,3,14,12,No,17,25,0.4322335152455815
+32,2,Life Sciences,4,Male,3,2,Laboratory Technician,3,4883,1,No,18,3,1,10,3,3,4,1,Yes,10,7,0.2444800480648876
+36,3,Life Sciences,2,Male,2,2,Manufacturing Director,2,6499,1,No,13,3,3,6,3,3,5,0,No,6,11,0.3253892755219546
+49,2,Life Sciences,1,Male,2,2,Laboratory Technician,1,4284,3,No,20,4,1,20,2,3,3,1,Yes,4,28,0.21448956090722476
+34,4,Medical,3,Female,2,1,Research Scientist,1,4381,1,No,11,3,3,6,3,3,5,1,No,6,2,0.2193461172582987
+39,2,Life Sciences,1,Male,3,2,Manufacturing Director,3,4534,0,No,11,3,1,9,6,3,7,1,No,8,18,0.22700645871927103
+30,1,Life Sciences,3,Male,2,3,Manufacturing Director,3,8474,1,No,22,4,3,12,2,3,8,5,No,11,1,0.4242727682371201
+51,3,Marketing,2,Male,3,3,Sales Executive,2,10596,2,No,11,3,2,14,5,3,2,3,No,4,2,0.5305161968657688
+60,4,Marketing,1,Male,3,2,Sales Executive,1,5405,8,No,14,3,4,10,1,3,2,2,No,2,16,0.27061533069644017
+50,4,Life Sciences,2,Male,3,2,Sales Executive,3,6728,7,No,12,3,4,12,3,3,3,0,Yes,6,1,0.336854753917789
+45,3,Technical Degree,4,Male,3,1,Research Scientist,4,2132,4,No,20,4,4,8,3,3,4,0,No,5,28,0.10674410454113052
+56,3,Life Sciences,4,Male,1,3,Manufacturing Director,4,7260,4,No,11,3,1,37,3,2,4,0,No,6,7,0.36349071246182346
+46,2,Life Sciences,4,Male,3,3,Manufacturing Director,4,8578,3,No,14,3,3,12,4,2,8,4,No,9,2,0.42947979772693134
+42,3,Medical,2,Male,3,1,Laboratory Technician,2,2766,8,No,22,4,2,7,6,2,3,0,No,5,12,0.13848695739247985
+60,4,Medical,3,Male,1,3,Healthcare Representative,4,10883,3,No,20,4,3,19,2,4,0,0,No,1,1,0.5448855955539978
+53,5,Technical Degree,3,Female,2,3,Manufacturing Director,4,10169,0,No,16,3,2,34,4,3,7,1,Yes,33,2,0.5091373354027938
+39,2,Medical,1,Male,3,2,Manufacturing Director,1,5151,1,No,25,4,4,10,3,3,0,7,No,10,9,0.2578981625194012
+48,3,Life Sciences,4,Male,2,5,Research Director,2,19665,4,No,12,3,4,29,3,3,10,12,No,22,10,0.984579181895559
+37,4,Medical,3,Male,3,2,Sales Executive,4,6502,4,No,14,3,2,7,5,4,4,0,No,5,6,0.3255394782956992
+41,3,Life Sciences,4,Female,3,2,Research Scientist,4,5467,3,Yes,14,3,1,12,4,2,2,3,No,6,22,0.27371952135382766
+21,2,Medical,1,Male,3,1,Sales Representative,4,2610,1,No,24,4,3,3,3,2,2,2,No,3,9,0.130676413157763
+32,4,Life Sciences,2,Male,3,2,Sales Executive,4,4403,2,No,11,3,3,8,3,2,2,0,No,5,13,0.22044760426575877
+37,2,Other,4,Male,2,1,Laboratory Technician,3,2090,6,Yes,15,3,2,7,3,3,0,0,Yes,0,2,0.10464126570870676
+45,3,Life Sciences,1,Male,3,3,Laboratory Technician,1,5210,1,No,18,3,1,24,2,3,9,9,No,24,7,0.2608521504030441
+41,3,Life Sciences,4,Female,3,3,Manager,4,13591,3,Yes,18,3,3,16,3,3,0,0,No,1,6,0.680468632654083
+42,4,Medical,2,Female,4,2,Research Scientist,2,2372,6,Yes,16,3,4,18,2,3,0,0,No,1,7,0.11876032644069494
+42,4,Marketing,3,Male,3,2,Sales Executive,2,6825,0,No,11,3,4,10,2,3,7,4,No,9,8,0.341711310268863
+24,2,Life Sciences,4,Female,3,1,Sales Representative,2,2033,1,No,13,3,3,1,2,3,0,0,No,1,13,0.10178741300756021
+33,4,Marketing,1,Female,3,2,Sales Executive,1,8224,0,Yes,17,3,1,6,3,3,2,0,Yes,5,9,0.41175587042507383
+43,3,Life Sciences,4,Female,3,2,Healthcare Representative,4,5562,4,No,13,3,2,12,2,2,2,2,No,5,1,0.27847594252240526
+38,1,Medical,3,Male,3,1,Research Scientist,3,2684,0,No,17,3,2,3,0,2,1,0,No,2,10,0.13438141491012867
+33,5,Life Sciences,4,Male,3,2,Healthcare Representative,3,6388,2,Yes,17,3,1,14,6,3,0,0,No,0,8,0.3198317728934061
+53,2,Marketing,1,Female,2,3,Sales Executive,4,10934,7,Yes,18,3,4,35,3,3,2,0,No,5,7,0.5474390427076553
+43,3,Life Sciences,3,Female,3,3,Manufacturing Director,1,10820,8,No,11,3,3,18,1,3,7,0,No,8,27,0.5417313373053623
+42,3,Medical,4,Female,2,1,Laboratory Technician,1,2593,0,Yes,11,3,3,10,4,3,6,7,No,9,2,0.12982526410654383
+29,4,Other,2,Male,1,1,Laboratory Technician,1,2119,1,Yes,11,3,4,7,4,2,7,0,Yes,7,8,0.10609322585490412
+29,3,Medical,2,Female,3,2,Healthcare Representative,3,4335,4,No,12,3,1,11,3,2,7,1,No,8,27,0.2170430080608822
+37,2,Life Sciences,2,Male,3,1,Research Scientist,2,3022,4,No,21,4,1,8,1,3,0,0,No,1,19,0.15130426075201522
+50,3,Life Sciences,1,Female,3,5,Research Director,2,18172,3,Yes,19,3,1,28,1,2,3,0,No,8,1,0.9098282681620187
+29,3,Life Sciences,4,Male,3,2,Sales Executive,3,4649,1,No,14,3,1,4,3,2,3,0,No,4,2,0.2327642317128123
+33,2,Life Sciences,1,Female,3,3,Research Director,4,13458,1,Yes,12,3,3,15,1,3,14,8,No,15,1,0.6738096430180744
+55,1,Medical,3,Male,2,4,Manager,1,16756,7,No,15,3,2,31,3,4,7,6,No,9,2,0.8389325589545887
+51,4,Life Sciences,2,Male,2,3,Research Director,2,12490,5,No,16,3,4,16,5,1,9,4,No,10,8,0.6253442146898313
+30,3,Life Sciences,1,Male,1,1,Research Scientist,3,2613,1,No,25,4,3,10,2,2,7,0,No,10,23,0.13082661593150754
+49,2,Medical,1,Male,2,5,Manager,3,18711,2,No,13,3,3,23,2,4,0,0,No,1,4,0.9368146998447905
+47,4,Medical,3,Male,4,2,Manufacturing Director,3,5067,1,Yes,19,3,3,20,3,4,10,2,No,19,16,0.25369248485455365
+31,4,Medical,3,Male,3,1,Research Scientist,2,2501,1,No,17,3,2,1,4,3,1,1,No,1,1,0.1252190457117108
+47,4,Life Sciences,2,Female,3,1,Laboratory Technician,3,2105,4,No,12,3,3,7,2,3,2,2,No,2,9,0.10539227957742953
+58,4,Life Sciences,1,Male,3,1,Research Scientist,3,2372,1,No,12,3,4,2,3,3,2,2,No,2,23,0.11876032644069494
+41,3,Technical Degree,2,Female,3,5,Research Director,3,19545,1,No,12,3,4,23,0,3,15,15,Yes,22,12,0.9785710709457768
+29,4,Medical,4,Female,2,1,Research Scientist,1,3785,1,No,14,3,2,5,3,1,4,0,No,5,28,0.18950583287438041
+50,1,Medical,4,Male,4,1,Laboratory Technician,3,3221,1,Yes,11,3,3,20,3,3,8,3,No,20,28,0.16126771141040405
+32,4,Life Sciences,3,Female,2,1,Laboratory Technician,2,2837,1,No,13,3,3,6,3,3,2,4,No,6,29,0.14204175637110097
+44,3,Medical,2,Female,3,5,Research Director,4,19049,0,Yes,14,3,4,23,4,2,7,1,No,22,7,0.953737545686677
+38,3,Human Resources,3,Male,4,1,Human Resources,3,2844,1,No,13,3,4,7,2,4,6,5,No,7,1,0.1423922295098383
+45,3,Life Sciences,2,Female,2,1,Research Scientist,3,2274,1,No,14,3,4,1,3,3,0,0,No,1,2,0.1138537024983728
+46,1,Medical,1,Female,3,3,Healthcare Representative,3,10527,5,No,11,3,4,28,3,2,2,1,No,2,18,0.527061533069644
+34,4,Medical,4,Male,4,1,Research Scientist,4,2932,0,Yes,14,3,1,6,3,3,0,1,No,5,2,0.14679817753967855
+55,4,Medical,3,Male,3,2,Healthcare Representative,2,6385,3,Yes,14,3,4,17,3,3,7,6,No,8,18,0.31968157011966153
+19,3,Life Sciences,2,Female,4,1,Research Scientist,4,2994,1,Yes,12,3,4,1,2,3,0,0,No,1,25,0.14990236819706604
+32,3,Medical,1,Male,3,2,Manufacturing Director,4,6162,1,Yes,22,4,2,9,3,3,8,7,No,9,1,0.3085164972713163
+40,4,Other,3,Male,3,2,Laboratory Technician,3,3975,3,No,11,3,3,11,2,4,7,0,No,8,9,0.19901867521153557
+30,2,Medical,3,Female,2,2,Sales Executive,2,5209,1,Yes,12,3,2,11,4,2,8,2,No,11,4,0.2608020828117959
+48,4,Medical,4,Male,3,1,Research Scientist,3,2259,4,No,17,3,1,13,2,2,0,0,No,0,20,0.11310268862965003
+45,2,Medical,1,Male,2,4,Manager,4,16792,9,No,23,4,4,22,1,3,8,11,No,20,2,0.8407349922395233
+29,4,Life Sciences,2,Male,1,1,Research Scientist,4,2720,1,No,18,3,4,10,5,3,7,2,No,10,1,0.13618384819506332
+46,4,Life Sciences,4,Female,2,2,Research Scientist,1,4615,8,Yes,23,4,1,19,2,3,13,1,No,16,8,0.231061933610374
+41,2,Medical,4,Female,3,2,Manufacturing Director,3,5003,6,No,14,3,2,8,6,3,2,2,No,2,7,0.2504881590146698
+41,2,Marketing,2,Female,3,1,Sales Representative,2,3140,1,Yes,22,4,4,4,5,2,3,0,Yes,4,20,0.15721223651930105
+52,2,Medical,4,Female,4,4,Manufacturing Director,3,13247,2,Yes,11,3,2,24,3,2,3,0,No,5,28,0.6632453812647073
+51,4,Medical,1,Female,2,3,Healthcare Representative,1,7484,3,No,20,4,3,23,1,2,12,12,No,13,1,0.3747058529014169
+36,4,Life Sciences,3,Male,3,1,Sales Representative,4,2644,3,Yes,21,4,4,7,3,2,2,1,No,3,2,0.13237871126020126
+38,1,Medical,2,Male,3,2,Healthcare Representative,1,6673,7,Yes,19,3,2,17,2,3,0,0,Yes,1,29,0.33410103639913885
+31,4,Other,4,Male,3,2,Sales Executive,1,5332,7,No,13,3,4,10,3,3,2,0,No,5,2,0.26696039653532266
+44,5,Marketing,2,Female,3,2,Sales Executive,1,5454,5,Yes,21,4,3,9,2,2,3,1,No,4,1,0.2730686426676013
+30,5,Marketing,3,Male,3,2,Sales Executive,4,5304,7,No,23,4,4,10,2,2,7,7,No,8,27,0.2655585039803735
+31,3,Life Sciences,4,Female,3,1,Sales Representative,2,2302,1,Yes,11,3,1,3,2,4,2,2,Yes,3,1,0.11525559505332199
+27,4,Life Sciences,4,Female,3,1,Research Scientist,3,2394,1,Yes,13,3,4,8,2,3,2,7,Yes,8,17,0.11986181344815501
+24,1,Medical,4,Female,2,2,Manufacturing Director,3,4377,1,No,15,3,2,5,6,3,2,3,No,4,17,0.21914584689330596
+50,3,Medical,3,Male,2,1,Laboratory Technician,3,3690,2,No,15,3,4,5,2,2,2,0,No,3,1,0.18474941170580284
+39,4,Life Sciences,4,Female,2,2,Sales Executive,3,5902,4,No,14,3,3,17,1,4,11,5,No,15,4,0.29549892354678814
+30,2,Medical,3,Female,3,2,Manufacturing Director,3,4695,7,Yes,18,3,3,10,3,3,4,1,No,8,9,0.23506734091022882
+30,1,Life Sciences,4,Male,2,2,Laboratory Technician,4,5126,1,Yes,12,3,3,10,1,2,8,3,No,10,1,0.2566464727381966
+59,4,Human Resources,3,Female,2,5,Manager,4,18844,9,No,21,4,4,30,3,3,2,2,No,3,2,0.9434736894807991
+36,3,Life Sciences,1,Female,4,3,Research Director,1,11713,9,No,14,3,1,10,2,3,7,0,No,8,8,0.5864416962899915
+29,3,Life Sciences,4,Female,2,1,Research Scientist,1,2404,6,Yes,20,4,3,3,5,3,0,0,Yes,0,10,0.12036248936063686
+30,4,Life Sciences,2,Male,2,1,Sales Representative,1,2033,1,No,18,3,3,1,2,4,0,0,Yes,1,12,0.10178741300756021
+50,3,Life Sciences,3,Female,3,5,Manager,2,19926,3,No,15,3,2,21,5,3,4,4,No,5,11,0.9976468232113354
+37,2,Medical,3,Female,2,1,Research Scientist,1,3920,2,No,14,3,1,17,2,2,1,0,No,3,1,0.1962649576928854
+38,2,Life Sciences,1,Female,2,3,Research Director,2,12061,3,No,17,3,3,19,2,3,8,0,No,10,25,0.6038652180443599
+41,2,Life Sciences,4,Male,3,2,Sales Executive,4,6230,7,No,14,3,4,16,3,3,3,1,No,14,10,0.31192109347619285
+29,3,Technical Degree,4,Female,2,1,Research Scientist,1,2109,1,No,13,3,3,1,2,3,0,0,No,1,4,0.10559254994242227
+45,4,Other,4,Male,3,2,Research Scientist,4,3697,9,No,14,3,1,12,3,3,9,9,No,10,8,0.18509988484454012
+29,3,Life Sciences,1,Male,3,2,Healthcare Representative,1,5373,0,No,12,3,1,6,5,2,3,0,No,5,1,0.26901316777649825
+42,2,Medical,4,Male,3,4,Manager,1,17665,0,No,17,3,4,23,3,3,6,13,No,22,2,0.8844439993991889
+48,3,Life Sciences,4,Male,2,5,Research Director,4,18265,6,No,12,3,3,25,3,4,0,0,No,1,1,0.9144845541480999
+20,3,Life Sciences,4,Female,2,1,Laboratory Technician,4,2926,1,Yes,18,3,2,1,5,3,0,1,Yes,1,6,0.14649777199218947
+31,1,Life Sciences,3,Male,3,3,Manufacturing Director,2,10648,1,No,25,4,4,13,6,4,8,0,No,13,9,0.5331197116106744
+41,3,Human Resources,3,Male,1,2,Human Resources,2,6430,6,No,19,3,2,10,4,3,2,1,No,3,4,0.3219346117258299
+29,3,Human Resources,1,Male,2,1,Human Resources,1,2335,4,Yes,15,3,4,4,3,3,2,2,Yes,2,13,0.1169078255645121
+42,4,Marketing,2,Male,3,2,Sales Executive,1,5155,7,No,13,3,4,9,3,4,4,1,No,6,4,0.25809843288439394
+36,4,Marketing,2,Female,2,2,Sales Executive,4,6652,4,No,13,3,1,8,2,2,3,0,No,6,11,0.33304961698292695
+32,2,Life Sciences,1,Male,1,2,Sales Executive,2,6735,6,No,15,3,2,10,2,3,0,0,Yes,0,1,0.33720522705652634
+36,4,Life Sciences,1,Male,3,2,Healthcare Representative,3,5347,6,No,14,3,2,10,2,2,2,0,No,3,26,0.26771141040404545
+42,4,Life Sciences,2,Female,3,1,Laboratory Technician,1,2576,3,No,16,3,2,8,5,3,2,1,No,5,1,0.1289741150553247
+43,3,Marketing,4,Female,3,4,Manager,4,16064,5,Yes,22,4,3,22,3,3,13,1,No,17,16,0.8042857858108446
+36,4,Life Sciences,3,Female,3,2,Sales Representative,4,4502,3,No,15,3,3,17,2,2,7,6,No,13,2,0.2254042957993291
+36,4,Life Sciences,2,Female,3,2,Laboratory Technician,2,5674,7,No,15,3,3,11,3,3,8,0,No,9,24,0.28408351274220195
+36,2,Technical Degree,2,Female,3,3,Sales Executive,4,9738,0,No,14,3,3,10,6,3,7,2,No,9,11,0.487558203574826
+38,3,Life Sciences,4,Male,3,2,Research Scientist,4,4735,7,No,15,3,4,19,4,4,11,2,No,13,1,0.2370700445601562
+33,4,Other,3,Male,2,1,Research Scientist,1,2799,3,Yes,11,3,2,6,1,3,2,0,No,3,1,0.14013918790366994
+45,4,Life Sciences,1,Male,4,2,Manufacturing Director,3,6434,4,No,17,3,4,9,1,3,2,0,No,3,7,0.3221348820908226
+27,2,Medical,1,Female,4,2,Sales Executive,3,6500,0,No,14,3,2,9,5,2,7,0,No,8,2,0.32543934311320283
+34,4,Medical,1,Female,2,2,Sales Executive,2,4599,0,Yes,23,4,3,16,2,4,9,10,Yes,15,24,0.23026085215040304
+29,3,Life Sciences,3,Male,3,1,Research Scientist,2,2703,0,No,23,4,4,6,3,3,4,0,No,5,2,0.1353326991438442
+32,4,Medical,2,Male,3,2,Sales Executive,3,5010,1,No,16,3,1,12,0,3,8,5,No,11,6,0.2508386321534071
+44,3,Life Sciences,4,Male,3,4,Research Director,1,16328,3,No,13,3,3,24,1,4,6,14,No,20,28,0.8175036299003655
+40,3,Life Sciences,2,Female,3,4,Manufacturing Director,3,13237,7,No,15,3,3,22,3,3,6,5,No,20,6,0.6627447053522255
+55,5,Life Sciences,1,Female,3,4,Manager,2,16835,3,No,23,4,4,37,2,3,9,7,No,10,18,0.8428878986631954
+41,3,Medical,1,Male,3,5,Research Director,3,19419,2,No,17,3,2,21,2,4,16,0,No,18,9,0.9722625544485055
+43,3,Marketing,1,Female,1,2,Sales Executive,3,5346,8,No,13,3,2,7,2,2,3,1,Yes,4,9,0.2676613428127973
+38,3,Life Sciences,2,Female,3,2,Sales Executive,2,4198,2,No,12,3,2,8,5,4,2,1,No,3,16,0.21018374805988083
+29,3,Marketing,2,Female,1,1,Sales Representative,2,2760,1,No,13,3,3,2,3,3,2,2,Yes,2,9,0.13818655184499073
+45,4,Other,4,Male,3,3,Research Director,1,13245,4,Yes,14,3,2,17,3,4,0,0,No,0,6,0.663145246082211
+34,2,Medical,1,Male,3,2,Manufacturing Director,2,4325,1,No,15,3,3,5,2,3,2,1,No,5,1,0.21654233214840035
+38,3,Life Sciences,4,Male,4,1,Research Scientist,3,2610,1,No,11,3,4,4,2,3,2,0,No,4,7,0.130676413157763
+55,2,Life Sciences,1,Male,3,3,Sales Executive,4,10239,3,No,14,3,4,24,4,3,0,1,No,1,1,0.5126420667901668
+40,3,Life Sciences,1,Female,2,3,Manufacturing Director,3,10435,1,No,13,3,4,18,2,3,15,14,No,18,15,0.522455314674811
+20,1,Life Sciences,4,Male,3,1,Sales Representative,1,2728,1,No,11,3,1,2,3,3,2,0,No,2,9,0.13658438892504882
+33,1,Medical,1,Male,1,1,Laboratory Technician,4,3408,7,No,13,3,1,8,2,3,3,1,Yes,4,10,0.17063035097381465
+31,4,Life Sciences,4,Male,3,1,Research Scientist,4,2356,3,Yes,19,3,2,8,2,3,4,0,No,6,11,0.11795924498072398
+40,4,Technical Degree,1,Male,3,3,Healthcare Representative,4,10322,4,No,20,4,4,14,6,3,10,11,No,11,20,0.5167976768637661
+50,3,Medical,4,Female,3,4,Manager,1,17856,2,No,22,4,3,32,3,3,2,2,No,2,2,0.8940069093275923
+27,3,Medical,4,Male,3,1,Research Scientist,4,2580,2,No,13,3,3,6,0,2,2,1,No,4,2,0.12917438542031742
+36,3,Life Sciences,4,Male,3,3,Healthcare Representative,1,8321,7,Yes,13,3,4,15,1,3,8,5,No,12,10,0.4166124267761478
+53,3,Medical,4,Male,4,4,Research Director,2,16598,4,No,12,3,2,35,2,2,8,8,No,9,2,0.8310218795373755
+42,3,Medical,2,Male,4,2,Healthcare Representative,1,5538,5,No,18,3,3,10,2,2,0,0,No,0,13,0.2772743203324488
+37,2,Life Sciences,3,Male,2,2,Healthcare Representative,4,5163,5,No,14,3,4,17,2,4,0,0,No,1,2,0.2584989736143794
+43,2,Life Sciences,2,Male,3,4,Research Director,1,17159,6,No,24,4,3,22,3,3,1,1,No,4,14,0.8591097982276072
+23,2,Life Sciences,4,Male,3,1,Research Scientist,3,1223,1,No,22,4,4,1,2,3,0,0,No,1,1,0.06123266409653032
+52,4,Other,3,Female,3,1,Laboratory Technician,1,2950,9,No,13,3,3,12,2,1,4,0,No,5,8,0.1476993941821459
+29,3,Life Sciences,1,Female,3,1,Research Scientist,4,3760,1,No,15,3,1,3,5,3,2,1,No,3,1,0.18825414309317579
+50,2,Medical,2,Female,2,5,Research Director,3,18740,5,Yes,12,3,4,29,2,2,3,13,No,27,7,0.9382666599909878
+42,1,Life Sciences,2,Male,3,2,Sales Executive,3,4907,1,No,25,4,3,20,3,3,16,11,No,20,1,0.24568167025484403
+34,3,Medical,2,Male,4,2,Laboratory Technician,3,4404,2,No,12,3,1,6,3,4,3,1,No,4,8,0.22049767185700697
+32,2,Life Sciences,3,Female,3,1,Sales Representative,2,3931,2,No,11,3,1,6,5,3,3,1,No,4,4,0.19681570119661543
+56,5,Marketing,4,Female,2,2,Sales Executive,1,5380,4,No,16,3,3,6,3,3,0,0,No,0,11,0.26936364091523557
+27,2,Medical,4,Male,3,1,Laboratory Technician,2,3816,1,No,11,3,2,5,2,3,2,0,No,5,1,0.19105792820307416
+40,2,Life Sciences,3,Female,3,1,Laboratory Technician,1,3377,4,No,17,3,4,7,5,2,3,0,No,4,2,0.1690782556451209
+37,3,Medical,1,Male,3,3,Manufacturing Director,3,10048,6,No,11,3,2,17,5,3,0,0,Yes,1,10,0.5030791568617634
+33,2,Medical,2,Male,2,1,Laboratory Technician,3,2008,1,No,12,3,3,1,2,2,1,0,No,1,1,0.10053572322635558
+36,3,Medical,3,Male,3,2,Healthcare Representative,3,5237,6,No,13,3,2,17,3,2,7,7,No,7,27,0.2622039753667451
+39,1,Life Sciences,3,Female,3,1,Laboratory Technician,3,3755,1,No,11,3,1,8,3,3,3,0,No,8,8,0.18800380513693485
+36,4,Technical Degree,1,Male,3,2,Sales Executive,4,5079,4,No,13,3,4,12,3,3,7,0,No,7,8,0.2542932959495319
+36,3,Other,3,Female,3,2,Manufacturing Director,2,5228,0,No,15,3,1,10,2,3,7,0,No,9,1,0.26175336704551144
+37,4,Life Sciences,3,Male,3,2,Manufacturing Director,2,4197,2,Yes,12,3,4,18,2,2,0,0,No,1,10,0.21013368046863265
+51,3,Life Sciences,4,Male,3,5,Manager,2,19847,4,Yes,24,4,1,31,5,2,10,11,No,29,9,0.9936914835027287
+49,4,Other,1,Female,3,4,Research Director,2,16413,3,No,16,3,2,27,2,3,2,1,No,4,22,0.8217593751564612
+43,3,Technical Degree,3,Male,2,1,Research Scientist,3,2437,9,Yes,16,3,4,6,4,3,0,0,Yes,1,17,0.12201471987182697
+33,3,Life Sciences,4,Female,3,2,Sales Executive,2,4302,0,No,17,3,3,4,3,3,2,0,No,3,7,0.21539077754969208
+46,2,Medical,4,Male,3,3,Manufacturing Director,3,10845,6,No,13,3,2,13,3,3,7,0,No,8,7,0.5429830270865669
+56,2,Life Sciences,1,Male,3,1,Laboratory Technician,4,2587,1,No,16,3,4,5,3,3,2,1,Yes,4,24,0.1295248585590547
+32,2,Medical,4,Male,1,2,Sales Executive,4,4668,0,No,17,3,4,9,2,4,7,0,No,8,9,0.2337155159465278
+30,3,Life Sciences,2,Male,2,2,Sales Executive,1,9714,1,No,11,3,4,10,4,3,8,6,Yes,10,1,0.4863565813848696
+27,4,Life Sciences,1,Female,3,2,Manufacturing Director,4,4227,0,No,18,3,2,4,2,3,2,2,No,3,2,0.21163570820607822
+42,3,Medical,3,Male,3,3,Research Director,1,13348,9,No,13,3,2,18,3,4,7,5,No,13,6,0.668302207980774
+20,3,Medical,4,Female,2,1,Research Scientist,1,2600,1,Yes,15,3,1,1,2,3,0,0,Yes,1,11,0.13017573724528114
+50,4,Marketing,4,Male,3,1,Sales Representative,2,3875,7,No,15,3,4,4,2,3,2,2,No,2,8,0.19401191608671706
+19,3,Life Sciences,2,Male,2,1,Laboratory Technician,4,1102,1,No,22,4,3,1,3,2,0,1,Yes,1,2,0.055174485555499926
+31,2,Life Sciences,1,Male,3,1,Sales Representative,3,3067,0,No,19,3,3,3,1,3,2,1,No,2,2,0.15355730235818355
+29,3,Technical Degree,3,Female,3,1,Sales Representative,4,2157,1,No,15,3,2,3,5,3,1,0,No,3,20,0.10799579432233515
+42,3,Life Sciences,4,Male,3,1,Laboratory Technician,3,3968,4,No,13,3,4,8,3,3,0,0,No,0,8,0.19866820207279828
+36,4,Technical Degree,2,Female,2,2,Sales Executive,3,5673,1,Yes,13,3,1,10,4,3,9,1,No,10,10,0.2840334451509538
+42,3,Life Sciences,3,Male,3,4,Sales Executive,1,13758,0,Yes,12,3,2,22,2,2,9,13,Yes,21,12,0.6888299203925299
+46,3,Marketing,3,Female,3,4,Manager,1,17048,8,No,23,4,1,28,2,3,15,15,No,26,2,0.8535522955990588
+39,1,Marketing,2,Female,2,4,Sales Executive,4,12031,0,No,11,3,1,21,2,2,9,9,No,20,24,0.6023631903069143
+30,1,Life Sciences,4,Male,3,1,Laboratory Technician,3,2693,1,No,22,4,2,1,2,3,0,0,No,1,24,0.13483202323136234
+36,4,Life Sciences,1,Male,2,2,Laboratory Technician,4,5810,1,No,16,3,3,10,2,2,4,1,No,10,4,0.29089270515195514
+41,4,Life Sciences,2,Female,1,1,Laboratory Technician,4,2778,4,Yes,13,3,3,10,1,2,7,1,Yes,7,2,0.13908776848745807
+22,2,Other,2,Female,2,1,Research Scientist,3,2814,1,Yes,14,3,2,4,2,2,2,1,No,4,26,0.14089020177239273
+21,1,Technical Degree,1,Female,2,1,Sales Representative,2,2174,1,Yes,11,3,3,3,3,3,2,1,Yes,3,1,0.1088469433735543
+41,2,Technical Degree,2,Female,4,1,Research Scientist,3,3376,1,No,13,3,3,10,3,3,6,0,No,10,7,0.16902818805387274
+45,3,Medical,2,Male,1,3,Healthcare Representative,1,10851,2,Yes,18,3,2,24,2,3,7,0,No,7,20,0.543283432634056
+29,1,Life Sciences,1,Male,3,2,Healthcare Representative,4,8853,1,No,19,3,4,6,0,4,4,1,No,6,2,0.44324838532018224
+51,3,Life Sciences,3,Male,3,1,Research Scientist,4,2723,1,No,11,3,2,1,0,2,0,0,No,1,1,0.13633405096880788
+34,4,Other,3,Male,2,2,Research Scientist,4,5747,1,Yes,15,3,2,16,3,3,10,6,No,15,22,0.28773844690331946
+40,4,Life Sciences,4,Male,3,1,Laboratory Technician,1,2018,3,No,14,3,2,15,3,1,4,1,Yes,5,9,0.10103639913883743
+42,5,Medical,1,Female,3,3,Research Director,1,13191,3,Yes,17,3,3,20,6,3,0,0,No,1,26,0.660441596154809
+39,3,Medical,4,Male,4,3,Sales Executive,3,8237,2,No,11,3,1,11,3,3,6,7,No,7,6,0.41240674911130026
+40,4,Life Sciences,2,Male,3,1,Laboratory Technician,2,2387,3,No,22,4,3,7,3,3,2,0,No,4,1,0.11951134030941771
+45,4,Technical Degree,1,Male,3,3,Healthcare Representative,2,7441,1,No,12,3,1,10,4,3,8,7,No,10,1,0.37255294647774495
+40,4,Medical,3,Female,3,1,Research Scientist,3,2001,2,No,14,3,2,20,2,3,3,0,No,5,2,0.10018525008761829
+34,3,Human Resources,2,Female,3,3,Human Resources,1,9950,9,Yes,15,3,3,11,2,3,2,0,Yes,3,23,0.49817253291944125
+32,2,Life Sciences,3,Female,3,3,Research Director,4,11159,3,No,15,3,4,10,6,3,7,7,No,7,8,0.5587042507384969
+50,5,Life Sciences,4,Female,2,3,Research Director,1,13269,5,No,15,3,3,19,3,3,11,1,No,14,17,0.6643468682721674
+37,4,Marketing,1,Male,3,1,Sales Representative,4,2793,4,No,17,3,3,13,2,3,8,5,No,9,4,0.13983878235618086
+29,1,Other,3,Female,3,3,Healthcare Representative,4,7553,0,Yes,12,3,1,9,1,3,7,7,Yes,8,14,0.3781605166975417
+31,4,Marketing,1,Female,3,3,Sales Executive,1,9637,2,No,14,3,4,9,3,3,2,2,No,3,7,0.4825013768587593
+38,2,Other,4,Female,2,1,Laboratory Technician,3,3702,1,No,11,3,2,5,3,3,4,0,No,5,6,0.18535022280078106
+27,3,Life Sciences,4,Female,3,2,Sales Executive,3,9981,1,No,14,3,4,7,2,3,7,0,No,7,20,0.49972462824813496
+41,4,Life Sciences,3,Male,3,1,Laboratory Technician,1,2238,2,No,21,4,4,7,2,3,0,1,No,5,9,0.11205126921343814
+40,3,Medical,3,Male,2,5,Research Director,3,19626,1,No,14,3,1,21,2,4,7,4,No,20,14,0.9826265458368798
+30,4,Life Sciences,3,Male,3,2,Sales Executive,1,4115,8,No,19,3,3,8,3,3,3,0,No,4,29,0.20602813798628147
+30,4,Life Sciences,3,Male,3,2,Laboratory Technician,3,3491,1,No,13,3,1,10,4,2,7,8,No,10,7,0.174785961047414
+34,3,Life Sciences,2,Male,3,1,Laboratory Technician,2,2008,1,No,14,3,2,1,3,3,0,1,No,1,10,0.10053572322635558
+40,2,Life Sciences,4,Female,3,2,Sales Executive,1,4639,1,No,15,3,3,5,2,3,4,1,No,5,14,0.23226355580033045
+29,3,Marketing,4,Male,3,1,Sales Representative,2,2297,1,No,14,3,4,2,2,3,2,2,No,2,10,0.11500525709708107
+46,2,Life Sciences,4,Male,3,5,Research Director,2,19081,5,No,11,3,1,25,2,3,2,0,No,4,15,0.955339708606619
+41,1,Life Sciences,3,Male,3,3,Sales Executive,3,8189,3,Yes,13,3,3,12,2,3,7,0,No,9,9,0.41000350473138736
+39,4,Life Sciences,1,Female,1,2,Sales Executive,3,5736,6,No,19,3,3,10,1,3,2,1,No,3,21,0.28718770339958943
+29,3,Life Sciences,4,Female,3,1,Research Scientist,2,3291,0,No,14,3,4,8,2,2,5,1,No,7,10,0.164772442797777
+52,2,Life Sciences,4,Female,3,4,Manager,4,16555,2,No,13,3,4,31,2,1,2,1,No,5,4,0.8288689731137034
+37,1,Life Sciences,3,Male,3,1,Research Scientist,3,2996,7,Yes,15,3,4,8,2,3,4,1,No,6,4,0.15000250337956242
+44,3,Life Sciences,3,Female,3,1,Human Resources,4,3195,4,Yes,18,3,1,8,2,3,2,2,No,2,1,0.15996595403795125
+45,4,Life Sciences,1,Female,3,2,Sales Executive,1,4286,2,No,14,3,4,5,4,3,1,0,Yes,1,26,0.21458969608972112
+47,1,Medical,2,Male,3,2,Sales Representative,3,2976,3,No,19,3,1,5,3,3,0,0,No,0,4,0.1490011515545987
+37,3,Life Sciences,4,Female,3,1,Laboratory Technician,1,3034,1,No,12,3,3,18,2,2,7,12,No,18,14,0.15190507184699345
+41,2,Life Sciences,2,Female,3,2,Sales Executive,4,5993,8,Yes,11,3,1,8,0,1,4,0,Yes,6,1,0.300055074350373
+57,4,Medical,4,Male,3,2,Healthcare Representative,3,6755,2,No,11,3,3,15,2,3,2,1,No,3,1,0.33820657888149
+18,1,Medical,3,Male,3,1,Laboratory Technician,3,1904,1,No,12,3,4,0,0,3,0,0,Yes,0,8,0.09532869373654433
+32,4,Medical,3,Female,3,2,Healthcare Representative,4,6667,5,No,18,3,2,9,6,3,1,1,No,5,15,0.33380063085164974
+33,3,Life Sciences,1,Female,3,3,Sales Executive,1,8564,2,Yes,20,4,3,11,2,2,0,0,Yes,0,16,0.42877885144945677
+32,3,Life Sciences,4,Male,3,1,Laboratory Technician,4,2314,0,No,12,3,2,4,2,3,0,0,No,3,1,0.1158564061483002
+39,3,Life Sciences,1,Female,2,1,Laboratory Technician,1,3646,2,Yes,23,4,2,11,2,4,0,0,Yes,1,2,0.1825464376908827
+58,4,Medical,3,Female,2,3,Manufacturing Director,1,10008,7,Yes,14,3,4,31,0,2,9,5,Yes,10,7,0.501076453211836
+31,1,Life Sciences,2,Male,3,2,Sales Executive,4,6582,4,Yes,13,3,3,10,2,4,5,0,No,6,2,0.329544885595554
+39,3,Medical,3,Male,3,1,Research Scientist,1,3904,0,No,13,3,1,6,2,3,2,0,Yes,5,23,0.19546387623291445
+27,2,Life Sciences,3,Female,3,3,Manufacturing Director,1,7412,1,No,11,3,4,9,3,3,7,0,No,9,1,0.3711009863315476
+44,4,Life Sciences,3,Male,3,1,Research Scientist,3,2936,1,Yes,11,3,3,6,4,3,4,0,Yes,6,10,0.14699844790467131
+45,4,Medical,4,Female,3,1,Laboratory Technician,4,2270,3,No,14,3,4,8,2,3,3,0,No,5,1,0.11365343213338007
+40,4,Life Sciences,3,Male,2,4,Healthcare Representative,2,13503,1,No,22,4,4,22,3,2,3,11,No,22,1,0.6760626846242427
+47,1,Medical,3,Female,3,3,Research Director,2,11957,0,No,18,3,1,14,3,1,8,5,No,13,1,0.5986581885545487
+34,2,Medical,4,Female,3,1,Research Scientist,2,2311,2,No,15,3,4,9,3,3,2,1,No,3,27,0.11570620337455564
+44,4,Other,4,Male,3,2,Research Scientist,4,4541,1,No,25,4,2,20,3,3,11,13,No,20,29,0.22735693185800832
+36,3,Marketing,1,Female,4,2,Sales Executive,1,4639,2,No,16,3,4,17,2,2,7,6,No,15,7,0.23226355580033045
+27,5,Life Sciences,1,Male,1,1,Laboratory Technician,3,4621,1,No,19,3,4,3,4,3,2,1,No,3,8,0.2313623391578631
+24,1,Technical Degree,1,Female,3,1,Sales Representative,2,3202,1,Yes,16,3,2,6,4,3,3,1,Yes,5,1,0.16031642717668854
+39,4,Technical Degree,3,Female,3,3,Healthcare Representative,3,10938,0,No,25,4,4,20,1,3,6,11,No,19,2,0.5476393130726481
+36,3,Medical,4,Male,2,1,Research Scientist,3,3388,0,Yes,17,3,1,2,0,2,0,0,Yes,1,9,0.16962899914885096
+50,3,Marketing,3,Female,3,3,Sales Executive,4,9208,4,No,11,3,4,16,3,3,2,2,No,2,12,0.46102238021328795
+41,4,Life Sciences,4,Male,3,4,Manager,2,16015,1,No,19,3,2,22,2,3,10,0,No,22,2,0.8018324738396836
+31,4,Medical,4,Male,3,2,Manufacturing Director,3,6179,1,Yes,15,3,4,10,3,2,2,6,Yes,10,22,0.30936764632253544
+39,2,Medical,3,Male,2,5,Manager,4,19272,1,No,15,3,1,21,2,3,9,13,No,21,7,0.9649026185350222
+44,3,Medical,2,Male,3,1,Research Scientist,4,2436,6,Yes,12,3,3,6,2,3,3,1,No,4,1,0.12196465228057878
+33,3,Life Sciences,4,Male,2,2,Manufacturing Director,2,4320,1,No,13,3,4,5,2,3,3,0,No,5,25,0.21629199419215941
+33,4,Marketing,3,Male,3,2,Sales Executive,3,7104,0,No,12,3,4,6,3,3,0,1,No,5,8,0.3556801682271066
+37,2,Medical,3,Female,2,2,Healthcare Representative,4,5731,7,No,13,3,3,9,2,3,2,1,No,6,25,0.2869373654433485
+37,3,Medical,3,Female,3,1,Laboratory Technician,1,3452,6,No,20,4,2,17,3,3,4,0,No,5,10,0.1728333249887348
+27,1,Marketing,3,Male,3,1,Sales Representative,1,3041,0,No,11,3,2,5,3,3,3,0,Yes,4,2,0.15225554498573074
+29,5,Technical Degree,3,Female,2,1,Research Scientist,2,2546,5,No,16,3,2,6,2,4,2,1,Yes,2,25,0.12747208731787912
+44,4,Medical,1,Female,2,3,Healthcare Representative,4,10248,3,No,14,3,4,24,4,3,6,5,No,22,7,0.5130926751114004
+23,3,Medical,1,Male,4,1,Research Scientist,1,2819,2,No,16,3,1,5,3,4,2,0,No,3,4,0.14114053972863366
+43,3,Medical,4,Male,4,1,Research Scientist,4,2089,4,No,14,3,4,7,3,4,4,2,No,5,7,0.10459119811745857
+29,3,Technical Degree,2,Female,3,1,Laboratory Technician,3,3339,3,Yes,13,3,1,10,2,3,7,7,Yes,7,7,0.16717568717768988
+27,3,Life Sciences,4,Female,2,1,Research Scientist,1,4774,0,No,19,3,4,8,2,2,6,7,No,7,15,0.23902268061883541
+46,3,Life Sciences,3,Female,3,3,Sales Executive,2,7314,5,No,21,4,3,14,2,3,7,0,Yes,8,10,0.3661943623892255
+32,5,Life Sciences,3,Male,3,1,Research Scientist,3,3038,3,No,20,4,1,8,2,3,4,1,No,5,6,0.15210534221198618
+37,2,Medical,1,Male,3,3,Sales Executive,2,7642,1,Yes,13,3,4,10,2,3,0,0,No,10,19,0.38261653231863013
+30,3,Medical,3,Male,3,2,Laboratory Technician,1,3072,1,No,11,3,3,12,4,3,9,6,No,12,9,0.15380764031442448
+38,4,Marketing,4,Female,2,2,Sales Executive,4,4028,0,No,20,4,1,8,2,3,7,0,No,7,7,0.2016722575476894
+33,4,Medical,4,Male,3,2,Sales Executive,4,5505,1,No,14,3,3,6,5,3,2,0,No,6,2,0.2756220898212587
+43,5,Medical,4,Male,3,2,Laboratory Technician,3,5679,3,Yes,13,3,2,10,3,3,7,4,No,8,9,0.2843338506984429
+32,3,Life Sciences,2,Male,3,2,Research Scientist,2,6220,1,No,17,3,2,10,3,3,4,0,No,10,1,0.311420417563711
+31,4,Life Sciences,2,Male,3,1,Laboratory Technician,3,3477,1,No,14,3,4,6,2,4,2,0,No,5,2,0.17408501476993943
+52,4,Life Sciences,4,Female,3,2,Laboratory Technician,3,3149,8,No,20,4,2,9,3,3,2,1,No,5,11,0.15766284484053472
+44,3,Medical,4,Female,4,4,Sales Executive,4,13320,3,Yes,18,3,3,23,2,3,11,11,No,12,28,0.6669003154258248
+29,1,Medical,1,Female,2,1,Laboratory Technician,4,2532,6,No,14,3,3,8,5,3,3,0,No,4,7,0.12677114104040454
+33,3,Medical,3,Male,3,1,Laboratory Technician,4,2436,5,Yes,13,3,3,8,2,1,4,0,Yes,5,14,0.12196465228057878
+31,3,Life Sciences,2,Female,1,2,Sales Executive,3,4559,3,Yes,11,3,3,4,2,3,2,2,Yes,2,20,0.22825814850047565
+37,3,Other,2,Male,3,3,Research Director,4,12185,1,Yes,14,3,3,10,1,3,8,0,No,10,11,0.6100735993591349
+38,2,Medical,4,Female,3,1,Laboratory Technician,3,3306,7,No,19,3,4,7,5,2,0,0,No,0,4,0.16552345666649979
+33,3,Medical,4,Female,3,1,Research Scientist,2,2756,1,No,13,3,4,8,5,3,7,1,No,8,14,0.137986281479998
